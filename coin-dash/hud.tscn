@@ -1,4 +1,4 @@
-[gd_scene load_steps=4 format=3 uid="uid://buqlqlnylmjvh"]
+[gd_scene load_steps=4 format=3 uid="uid://b006j6xgc07ku"]
 
 [ext_resource type="Script" path="res://hud.gd" id="1_4pvk7"]
 [ext_resource type="FontFile" uid="uid://dka1kno2oacku" path="res://assets/Kenney Bold.ttf" id="2_6c25v"]
