@@ -7,6 +7,7 @@
 ## Project 1
 1. [Coin Dash Demo](battery_dash_project1_scenes/finished_scene_9_6/index.html)
 2. [Battery Dash v1_01](battery_dash_project1_scenes/part_one_scene_9_11/index.html)
+3. [Battery Dash v1_02](battery_dash_project1_scenes/part_two_scene_9_12/index.html)
 ## Space Rocks
 1. [Space Rocks Sep 9](space_rocks_scenes/player_scene_09_09/index.html)
 2. [Space Rocks Sep 11](space_rocks_scenes/main_rocks_explosions_scene_09_11/index.html)
