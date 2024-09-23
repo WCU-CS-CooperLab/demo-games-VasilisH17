@@ -19,4 +19,5 @@
 7. [Space Rocks Sep 20](space_rocks_scenes/particles_finished_scene_9_20/index.html)
 ## 3D Golf
 1. [3D Golf Sep 23](3dgolf_scenes/3d_golf_first_hole_9_23/index.html)
-
+2. [3D Golf Sep 23](3dgolf_scenes/3d_golf_ui_9_23/index.html)
+3. [3D Golf Sep 25](3dgolf_scenes/3d_golf_camera_script_9_25/index.html)
