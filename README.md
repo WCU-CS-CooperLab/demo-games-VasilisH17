@@ -33,3 +33,5 @@
 4. [Jungle Jump Oct 7](jungle_jump_scenes/jungle_jump_ui_title_10_7/index.html)
 ## Infinite Flyer
 1. [Infinite Flyer Oct 16](infinite_flyer_scenes/infinite_flyer_scene_plane_10_16/index.html)
+2. [Infinite Flyer Oct 18](infinite_flyer_scenes/infinite_flyer_scene_world_10_18/index.html)
+3. [Infinite Flyer Oct 21](infinite_flyer_scenes/infinite_flyer_scene_main_10_21/index.html)
