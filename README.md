@@ -28,5 +28,8 @@
 4. [Time Attack v1_03](time_attack_project2_scenes/final_part_scene/index.html)
 ## Jungle Jump
 1. [Jungle Jump Sep 30](jungle_jump_scenes/jungle_jump_main_player_9_30/index.html)
+2. [Jungle Jump Oct 2](jungle_jump_scenes/jungle_jump_base_level_10_2/index.html)
+3. [Jungle Jump Oct 4](jungle_jump_scenes/jungle_jump_scrolling_enemy_10_4/index.html)
+4. [Jungle Jump Oct 7](jungle_jump_scenes/jungle_jump_ui_title_10_7/index.html)
 ## Infinite Flyer
 1. [Infinite Flyer Oct 16](infinite_flyer_scenes/infinite_flyer_scene_plane_10_16/index.html)
