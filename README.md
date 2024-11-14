@@ -37,5 +37,8 @@
 3. [Infinite Flyer Oct 21](infinite_flyer_scenes/infinite_flyer_scene_main_10_21/index.html)
 ## Project 3
 1. [3D Golf Demo](3d_hockey_project3_scenes/3d_hockey_project3_demo_11_14/index.html)
+2. [3D Hockey v1_01](3d_hockey_project3_scenes/3d_hockey_project3_part_one_11_14/index.html)
+3. [3D Hockey v1_02](3d_hockey_project3_scenes/3d_hockey_project3_part_two_11_14/index.html)
+4. [3D Hockey v1_03](3d_hockey_project3_scenes/3d_hockey_project3_finished_11_14/index.html)
 ## Group Project 1 - Key Quest
 1. [Key Quest (WIP)](group_project_one_scenes/group_project_one_scene_11_10/index.html)
