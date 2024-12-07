@@ -17,15 +17,18 @@
 5. [Space Rocks Sep 16](space_rocks_scenes/gameover_pausing_scene_09_16/index.html)
 6. [Space Rocks Sep 18](space_rocks_scenes/enemes_collisions_shield_scene_09_18/index.html)
 7. [Space Rocks Sep 20](space_rocks_scenes/particles_finished_scene_9_20/index.html)
+8. [Space Rocks Dec 7 REVISED](space_rocks_scenes/space_rocks_revised_12_7/index.html)
 ## 3D Golf
 1. [3D Golf Sep 23](3dgolf_scenes/3d_golf_first_hole_9_23/index.html)
 2. [3D Golf Sep 23](3dgolf_scenes/3d_golf_ui_9_23/index.html)
 3. [3D Golf Sep 25](3dgolf_scenes/3d_golf_camera_script_9_25/index.html)
+4. [3D Golf Dec 7 REVISED](3dgolf_scenes/3d_golf_revised_12_7/index.html)
 ## Project 2
-1. [Space Rocks Demo](space_rocks_scenes/particles_finished_scene_9_20/index.html)
+1. [Space Rocks Demo REVISED](space_rocks_scenes/space_rocks_revised_12_7/index.html)
 2. [Time Attack v1_01](time_attack_project2_scenes/part_one_scene/index.html)
 3. [Time Attack v1_02](time_attack_project2_scenes/part_two_scene/index.html)
 4. [Time Attack v1_03](time_attack_project2_scenes/final_part_scene/index.html)
+5. [Time Attack v1_04 REVISED](time_attack_project2_scenes/time_attack_revised_12_7/index.html)
 ## Jungle Jump
 1. [Jungle Jump Sep 30](jungle_jump_scenes/jungle_jump_main_player_9_30/index.html)
 2. [Jungle Jump Oct 2](jungle_jump_scenes/jungle_jump_base_level_10_2/index.html)
@@ -36,9 +39,10 @@
 2. [Infinite Flyer Oct 18](infinite_flyer_scenes/infinite_flyer_scene_world_10_18/index.html)
 3. [Infinite Flyer Oct 21](infinite_flyer_scenes/infinite_flyer_scene_main_10_21/index.html)
 ## Project 3
-1. [3D Golf Demo](3d_hockey_project3_scenes/3d_hockey_project3_demo_11_14/index.html)
+1. [3D Golf Demo REVISED](3dgolf_scenes/3d_golf_revised_12_7/index.html)
 2. [3D Hockey v1_01](3d_hockey_project3_scenes/3d_hockey_project3_part_one_11_14/index.html)
 3. [3D Hockey v1_02](3d_hockey_project3_scenes/3d_hockey_project3_part_two_11_14/index.html)
 4. [3D Hockey v1_03](3d_hockey_project3_scenes/3d_hockey_project3_finished_11_14/index.html)
+5. [3D Hockey v1_04 REVISED](3d_hockey_project3_scenes/3d_hockey_revised_12_7/index.html)
 ## Group Project 1 - Key Quest
 1. [Key Quest (WIP)](group_project_one_scenes/group_project_one_scene_11_10/index.html)
